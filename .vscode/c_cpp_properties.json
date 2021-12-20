@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/build",
+                "/usr/local/include/panda3d",
+                "${workspaceFolder}/build",
+                "/usr/local/include/panda3d/parser-inc",
+                "${workspaceFolder}/src",
+                "${workspaceFolder}/src/gdk/render_pipeline",
+                "${workspaceFolder}/src/gdk/render_pipeline"
+            ],
+            "compilerPath": "/usr/bin/clang++",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "defines": [
+                "DEVELOPMENT",
+                "CPPPARSER"
+            ],
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
