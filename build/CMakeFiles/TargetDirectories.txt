@@ -1,3 +1,0 @@
-/home/matthieu/Projects/gdk/build/CMakeFiles/gdk.dir
-/home/matthieu/Projects/gdk/build/CMakeFiles/edit_cache.dir
-/home/matthieu/Projects/gdk/build/CMakeFiles/rebuild_cache.dir
